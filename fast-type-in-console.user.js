@@ -3,9 +3,10 @@
 // @namespace    http://tampermonkey.net/
 // @version      8.0
 // @description  تایپ خودکار بدون خطا - رفع مشکل * و کاراکترهای شیفت‌دار - Paste مستقیم
-// @match        *://87.248.138.219*
+// @match        *://url خود را جایگزین این متن کنید*
 // @match        *://*:8006/*
 // @match        *://*/*
+// @author       Mohammad Yamini
 // @grant        none
 // ==/UserScript==
 
