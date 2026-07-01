@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      8.0
 // @description  تایپ خودکار بدون خطا - رفع مشکل * و کاراکترهای شیفت‌دار - Paste مستقیم
-// @match        *://87.248.138.219*
+// @match        *://172.218.128.210*
 // @match        *://*:8006/*
 // @match        *://*/*
 // @updateURL    https://raw.githubusercontent.com/mohammad021/tampermonkey-fast-type-console/main/fast-type-in-console.user.js
